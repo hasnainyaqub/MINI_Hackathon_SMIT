@@ -1,4 +1,6 @@
 
 ### Live APP: [11_The Customer Sentiment Tracker ](https://reviewsanalyzer.streamlit.app/)
 
-Please RUN APPS locally .
+Please RUN These APPS locally .
+6_fake_news_detection.
+11_IMDB_Reviews_Sentiment_Analysis.
